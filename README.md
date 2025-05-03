@@ -9,4 +9,5 @@ Answer: No, I would not use a unit test for "message" feature. The reason why I 
 
 Answer: Yes, I would use a unit test for "max message length" feature. Unlike the previous problem, "max message length" is a small, self-contained piece of logic that can be tested with a unit test. For example I can construct a unit test, checking whether the input function correctly prevents from typing beyond the max_message_length.
 
-link to my GitHub pages site: https://kevinlee1989.github.io/Lab5_Starter/
+- link to my GitHub pages site(expose): https://kevinlee1989.github.io/Lab5_Starter/expose.html
+- link to my GitHub pages site(explore)https://kevinlee1989.github.io/Lab5_Starter/explore.html
